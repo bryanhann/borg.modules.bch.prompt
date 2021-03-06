@@ -1,4 +1,5 @@
 #!/bin/bash
 #This shebang is for synax only. Do not make executable!
+
 source $(borg_repo https://github.com/magicmonty/bash-git-prompt)/gitprompt.sh
 
